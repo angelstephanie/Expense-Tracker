@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/angelstephanie/Expense-Tracker.git/static/css/main.743fd9ea.css",
+    "main.js": "/angelstephanie/Expense-Tracker.git/static/js/main.21df51cb.js",
+    "index.html": "/angelstephanie/Expense-Tracker.git/index.html",
+    "main.743fd9ea.css.map": "/angelstephanie/Expense-Tracker.git/static/css/main.743fd9ea.css.map",
+    "main.21df51cb.js.map": "/angelstephanie/Expense-Tracker.git/static/js/main.21df51cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743fd9ea.css",
+    "static/js/main.21df51cb.js"
+  ]
+}
